@@ -1,67 +1,35 @@
-# 🌿 Linktree — Dra. Mariana Carmona
+# Linktree — Dra. Mariana Thomaz Carmona
 
-> Página de links personalizada para a **Dra. Mariana Thomaz Carmona** — Estética Avançada & Rejuvenescimento Estratégico.
+Página de links refinada para seguir a identidade visual da Dra. Mariana Thomaz Carmona.
 
----
+## Identidade aplicada
 
-## ✨ Sobre o Projeto
+- Vinho: `#5A1F2B`
+- Vinho escuro: `#3F1620`
+- Off-white: `#F7F2EA`
+- Bege: `#D8C4AE`
+- Marrom texto: `#5B3A2E`
 
-Linktree customizado desenvolvido em HTML puro, sem dependências externas, com design elegante em preto e dourado, partículas animadas e totalmente responsivo para todos os dispositivos.
+## Arquivos principais
 
-## 🎨 Tecnologias
+- `index.html`: página pronta para publicação.
+- `assets/logo-mariana.png`: logo oficial em vinho.
+- `assets/mariana-profile.jpg`: foto da Dra. Mariana.
+- `assets/favicon.ico` e `assets/favicon-*.png`: favicons visíveis em navegadores e celular.
 
-- **HTML5** — estrutura da página
-- **CSS3** — animações, partículas e responsividade
-- **JavaScript** — sistema de partículas douradas animadas
-- **Google Fonts** — Bodoni Moda, Cormorant Garamond, Montserrat
-- **Vercel** — hospedagem e deploy
+## Ajustes desta versão
 
-## 📱 Responsividade
+- Removidos os botões de localização Moema e Santana.
+- Mensagem do WhatsApp atualizada para: `Olá! Vi o conteúdo da Dra. Mariana e gostaria de agendar uma avaliação para entender o melhor tratamento para mim.`
+- Animação ambiente em vinho com degradê suave no fundo.
+- Entrada suave do card, logo, foto, frase e botões.
+- Linha vinho animada abaixo da logo.
+- Halo discreto em vinho atrás da foto.
+- Brilho acetinado no botão principal de agendamento.
+- Hover premium nos botões, com leve elevação e brilho vinho.
+- Responsividade refinada para desktop, notebook, tablet, celular e telas pequenas.
+- Respeito a `prefers-reduced-motion`, reduzindo animações para usuários com preferência por menos movimento.
 
-Compatível com todos os dispositivos:
+## Publicação
 
-- 📱 Celular pequeno (até 360px)
-- 📱 Celular médio (361px – 480px)
-- 📱 Celular grande (481px – 600px)
-- 🗂️ Tablet portrait (601px – 768px)
-- 🗂️ Tablet landscape / iPad (769px – 1024px)
-- 🖥️ Desktop e monitores (1025px+)
-- 🔬 Telas Retina / 4K
-
-## 🔗 Links da Página
-
-| Botão | Destino |
-|-------|---------|
-| Consulta Dra Mariana Carmona | WhatsApp agendamento |
-| Deixe a Sua Avaliação | Google Reviews — Harmonie Clinic |
-| Localização Moema | Google Maps — R. Min. Gabriel de Rezende Passos, 500 |
-| Localização Alto de Santana | Google Maps — R. Conselheiro Saraiva, 403 |
-
-## 🚀 Como rodar localmente
-
-```bash
-# Clone o repositório
-git clone https://github.com/viniciusiandoli7/link-tree.git
-
-# Entre na pasta
-cd link-tree
-
-# Abra o arquivo no navegador
-start index.html
-```
-
-## 🌐 Deploy no Vercel
-
-O projeto está hospedado no Vercel com deploy automático a cada `git push` na branch `main`.
-
-Para atualizar o site:
-
-```bash
-git add .
-git commit -m "sua mensagem"
-git push
-```
-
----
-
-Desenvolvido com 🖤 para a **Harmonie Clinic**
+Basta subir o conteúdo da pasta para a hospedagem usada no link da bio.
